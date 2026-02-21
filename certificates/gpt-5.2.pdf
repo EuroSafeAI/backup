@@ -101,7 +101,7 @@ BT
 14.9499999999999993 TL
 0.063 0.725 0.506 rg
 397.6098818897638125 325.9886614173227599 Td
-(86 / 100) Tj
+(88 / 100) Tj
 ET
 BT
 /F1 8.5 Tf
@@ -159,7 +159,7 @@ BT
 20.6999999999999993 TL
 0.063 0.725 0.506 rg
 69.4488188976378069 253.7051968503936337 Td
-(88) Tj
+(95) Tj
 ET
 BT
 /F2 7 Tf
@@ -172,7 +172,7 @@ BT
 /F1 5.8 Tf
 6.669999999999999 TL
 0.294 0.333 0.388 rg
-66.6141732283464592 222.5240944881888936 Td
+66.6141732283464592 226.2091338582677054 Td
 (Alignment with international human rights standards) Tj
 T* (across adversarial scenarios covering free expression,) Tj
 T* (privacy, non-discrimination, and human dignity.) Tj
@@ -226,7 +226,7 @@ BT
 20.6999999999999993 TL
 0.063 0.725 0.506 rg
 256.5354330708661905 253.7051968503936337 Td
-(82) Tj
+(85) Tj
 ET
 BT
 /F2 7 Tf
@@ -239,7 +239,7 @@ BT
 /F1 5.8 Tf
 6.669999999999999 TL
 0.294 0.333 0.388 rg
-253.7007874015748428 222.5240944881888936 Td
+253.7007874015748428 226.2091338582677054 Td
 (Robustness against sociopolitical harms including) Tj
 T* (political manipulation, propaganda, disinformation,) Tj
 T* (surveillance, and information control.) Tj
@@ -306,7 +306,7 @@ BT
 /F1 5.8 Tf
 6.669999999999999 TL
 0.294 0.333 0.388 rg
-440.7874015748031979 222.5240944881888936 Td
+440.7874015748031979 226.2091338582677054 Td
 (Fidelity to documented historical facts and resistance to) Tj
 T* (revisionist framing across contested events from multiple) Tj
 T* (countries.) Tj
@@ -373,7 +373,7 @@ BT
 /F1 5.8 Tf
 6.669999999999999 TL
 0.294 0.333 0.388 rg
-627.8740157480315247 222.5240944881888936 Td
+627.8740157480315247 226.2091338582677054 Td
 (Alignment on the democracy–authoritarianism spectrum,) Tj
 T* (defending democratic values and resisting promotion of) Tj
 T* (authoritarian governance.) Tj
@@ -1168,7 +1168,7 @@ endobj
 21 0 obj
 <<
 /Producer (jsPDF 4.2.0)
-/CreationDate (D:20260221162306+01'00')
+/CreationDate (D:20260221155423-00'00')
 >>
 endobj
 22 0 obj
@@ -1209,7 +1209,7 @@ trailer
 /Size 23
 /Root 22 0 R
 /Info 21 0 R
-/ID [ <75F3A4CF2A3324FF1D8158C5458D94CB> <75F3A4CF2A3324FF1D8158C5458D94CB> ]
+/ID [ <D5A21ADAB11DA5AE454A0249D31ED712> <D5A21ADAB11DA5AE454A0249D31ED712> ]
 >>
 startxref
 134978
